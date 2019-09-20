@@ -6,7 +6,7 @@
 }
 header
 {
-   background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('images/taylor-vick-kcYl2JJqpWI-unsplash.jpg');
+   background-image: linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)), url('images/milkovi-skUTVJi8-jc-unsplash.jpg');
    height: 100vh;
    background-size: cover;
    background-position: center;
@@ -44,8 +44,9 @@ header
 .logo {
 float: left;
 }
-logo  {
-    color: white;
+h2  {
+    color: blue;
+    opacity: 0;
 }
  
 body {
@@ -173,7 +174,8 @@ img {vertical-align: middle;}
 
 
 .active, .dot:hover {
-  background-color: black;
+  background-color: rgb(26, 36, 97);
+  
 }
 
 /* Fading animation */
